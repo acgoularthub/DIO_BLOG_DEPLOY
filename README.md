@@ -1,3 +1,8 @@
+**Projeto de automatização de deploy de paginas estáticas com auxílio do Github Actions e hospedagem gratuita s3 AWS **
+
+Projeto encontrado na Plataforma Digital Innovation One, ministrado pelo instrutor Celso Henrique.
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
